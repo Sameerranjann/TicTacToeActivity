@@ -26,7 +26,7 @@
 
         android:layout_height="wrap_content"
 
-        android:text="Tic Tac Toe"
+        android:text="@string/tic_tac_toe"
 
         android:layout_centerHorizontal="true"
 
@@ -64,13 +64,13 @@
 
             android:layout_height="wrap_content"
 
-            android:text="Player-1 Score"
+            android:text="@string/player_1_score"
 
             android:textAlignment="center"
 
             android:textColor="@color/black"
 
-            android:textSize="26dp"
+            android:textSize="26sp"
 
             android:textStyle="bold" />
 
@@ -82,9 +82,9 @@
 
             android:layout_height="wrap_content"
 
-            android:text="Player-2 Score"
+            android:text="@string/player_2_score"
 
-            android:textSize="26dp"
+            android:textSize="26sp"
 
             android:textStyle="bold"
 
@@ -93,7 +93,7 @@
             android:textAlignment="center"
 
 
-            android:layout_toRightOf="@id/text_player1"
+            android:layout_toEndOf="@id/text_player1"
 
             />
 
@@ -107,13 +107,13 @@
 
 
 
-            android:text="0"
+            android:text="@string/_0"
 
             android:textAlignment="center"
 
             android:textColor="@color/black"
 
-            android:textSize="26dp"
+            android:textSize="26sp"
 
             android:textStyle="bold"
 
@@ -131,13 +131,13 @@
 
 
 
-            android:text="0"
+            android:text="@string/_01"
 
             android:textAlignment="center"
 
             android:textColor="@color/black"
 
-            android:textSize="26dp"
+            android:textSize="26sp"
 
             android:textStyle="bold"
 
@@ -183,7 +183,7 @@
 
                 android:layout_height="75dp"
 
-                android:textSize="26dp"
+                android:textSize="26sp"
 
                 android:layout_marginHorizontal="5dp"
 
@@ -197,7 +197,7 @@
 
                 android:layout_height="75dp"
 
-                android:textSize="26dp"
+                android:textSize="26sp"
 
                 android:layout_marginHorizontal="5dp"
 
@@ -211,7 +211,7 @@
 
                 android:layout_height="75dp"
 
-                android:textSize="26dp"
+                android:textSize="26sp"
 
                 android:layout_marginHorizontal="5dp"
 
@@ -239,7 +239,7 @@
 
                 android:layout_height="75dp"
 
-                android:textSize="26dp"
+                android:textSize="26sp"
 
                 android:layout_marginHorizontal="5dp"
 
@@ -253,7 +253,7 @@
 
                 android:layout_height="75dp"
 
-                android:textSize="26dp"
+                android:textSize="26sp"
 
                 android:layout_marginHorizontal="5dp"
 
@@ -267,7 +267,7 @@
 
                 android:layout_height="75dp"
 
-                android:textSize="26dp"
+                android:textSize="26sp"
 
                 android:layout_marginHorizontal="5dp"
 
@@ -293,7 +293,7 @@
 
                 android:layout_height="75dp"
 
-                android:textSize="26dp"
+                android:textSize="26sp"
 
                 android:layout_marginHorizontal="5dp"
 
@@ -307,7 +307,7 @@
 
                 android:layout_height="75dp"
 
-                android:textSize="26dp"
+                android:textSize="26sp"
 
                 android:layout_marginHorizontal="5dp"
 
@@ -321,7 +321,7 @@
 
                 android:layout_height="75dp"
 
-                android:textSize="26dp"
+                android:textSize="26sp"
 
                 android:layout_marginHorizontal="5dp"
 
@@ -347,9 +347,9 @@
 
         android:layout_centerHorizontal="true"
 
-        android:textSize="26dp"
+        android:textSize="26sp"
 
-        android:text="Status"
+        android:text="@string/status"
 
         android:textColor="@color/black"/>
 
@@ -365,9 +365,9 @@
 
         android:layout_centerHorizontal="true"
 
-        android:text="Play Again"
+        android:text="@string/play_again"
 
-        android:textSize="26dp"
+        android:textSize="26sp"
 
 
         android:backgroundTint="#ffbb00"/>
@@ -384,9 +384,9 @@
 
         android:layout_centerHorizontal="true"
 
-        android:text="Reset Game"
+        android:text="@string/reset_game"
 
-        android:textSize="26dp"
+        android:textSize="26sp"
 
 
 

@@ -1,6 +1,20 @@
 <resources>
     <string name="welcome_to_our_page">Welcome to our page</string>
     <string name="thanks_for_visiting">Thanks for visiting</string>
+    <string name="player_1_score">Player-1 Score</string>
+    <string name="status">Status</string>
+    <string name="play_again">Play Again</string>
+    <string name="reset_game">Reset Game</string>
+    <string name="player_2_score">Player-2 Score</string>
+    <string name="tic_tac_toe">Tic Tac Toe</string>
+    <string name="_0">0</string>
+    <string name="_01">0</string>
 
+    <string name="next">Next</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet...</string>
+    <string name="previous">previous\n</string>
+    <string name="action_settings">action_settings</string>
+    <string name="second_fragment_label">second_fragment_label</string>
+    <string name="first_fragment_label">first_fragment_label</string>
 
 </resources>
